@@ -244,9 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Flixmate {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b><a href='https://t.me/flixmate2/'>Backup Channel</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
