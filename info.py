@@ -128,7 +128,7 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4cf15e1106729ec5c145c28da45ceea4cba0f7c5')
-TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/flixmate2') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 # Others
