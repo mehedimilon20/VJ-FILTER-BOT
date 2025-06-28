@@ -246,12 +246,10 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Flixmate {file_name}
 
-<b><a href='https://t.me/flixmate2/'>Backup Channel</a>
-<b> ╭─── • ❰ KEEP SUPPORT ❱ • ────➤
-<a href='https://t.me/mehedimilon200/'>𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋🔻</a>
-<a herf='https://t.me/flixmate/'>𝐀𝐒𝐊 𝐔𝐑 𝐌𝐎𝐕𝐈𝐄𝐒 𝐇𝐄𝐑𝐄🔻</a>
-<a herf='https://t.me/milonflix_bot/'>Admin</a>
-╰─────── • ◆ • ───────➤</b>""" 
+<b> ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+<a href='https://t.me/flixmate2/'>▫️Backup </a>
+<a href='https://t.me/flixmate/'>▫️ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
